@@ -1,0 +1,402 @@
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun1.jpg 400,188,507,409,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun10.jpg 163,85,317,424,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun100.jpg 233,250,327,414,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun100g.jpg 241,202,328,413,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun102g.jpg 307,204,373,416,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun103.jpg 360,56,524,421,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun104.jpg 120,57,218,419,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun106.jpg 247,56,415,425,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun108.jpg 233,309,299,414,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun109.jpg 449,185,530,401,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun10g.jpg 313,57,407,381,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun11.jpg 460,250,524,394,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun110.jpg 181,172,316,424,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun111.jpg 504,315,566,412,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun112.jpg 254,311,310,397,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun113.jpg 364,54,551,423,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun114.jpg 126,54,284,406,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun115.jpg 389,55,535,417,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun116.jpg 143,60,334,403,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun12.jpg 217,253,269,381,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun121.jpg 400,54,518,420,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun122.jpg 151,53,282,406,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun123.jpg 332,53,487,416,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun124.jpg 428,55,533,414,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun125.jpg 161,56,269,425,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun127.jpg 207,248,281,404,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun13.jpg 480,234,578,395,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun133.jpg 124,285,189,412,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun136.jpg 345,59,406,423,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun137.jpg 113,55,175,423,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun138.jpg 516,148,584,412,0 492,162,533,408,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun139.jpg 244,138,284,422,0 272,145,354,424,0 357,145,517,424,0 515,145,581,424,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun13g.jpg 448,144,579,412,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun14.jpg 237,229,313,401,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun140.jpg 114,114,244,422,0 261,118,345,422,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun141.jpg 340,152,468,407,0 522,161,581,406,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun142.jpg 85,147,206,425,0 252,146,350,429,0 472,166,571,422,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun143.jpg 251,172,338,413,0 343,178,430,418,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun147.jpg 371,96,451,410,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun148.jpg 91,113,205,424,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun15.jpg 504,179,574,399,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun151.jpg 540,244,584,405,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun152.jpg 290,182,357,405,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun154.jpg 333,232,440,410,0 486,238,581,411,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun155.jpg 84,243,163,413,0 233,247,297,411,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun16.jpg 255,141,416,389,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun17.jpg 147,143,291,416,0 494,179,584,421,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun18.jpg 244,195,353,416,0 386,199,458,414,0 475,198,531,417,0 533,197,581,418,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun19.jpg 132,188,213,411,0 229,209,297,406,0 420,216,539,413,0 595,269,607,281,0 294,240,387,415,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun2.jpg 159,183,256,405,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun20.jpg 164,152,315,418,0 380,152,501,417,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun21.jpg 131,166,226,415,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun22.jpg 516,170,580,424,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun22g.jpg 300,217,388,404,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun23.jpg 288,182,396,413,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun24.jpg 388,148,500,409,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun24g.jpg 251,222,331,427,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun25.jpg 117,142,222,424,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun26.jpg 482,284,558,406,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun26g.jpg 259,238,371,410,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun27g.jpg 434,71,576,419,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun28.jpg 425,159,497,397,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun28g.jpg 167,76,264,426,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun29.jpg 173,158,266,414,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun29g.jpg 439,135,576,418,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun2g.jpg 302,90,429,419,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun3.jpg 510,57,580,426,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun30.jpg 77,59,233,427,0 231,59,423,429,0 422,55,581,423,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun30g.jpg 213,135,291,409,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun31.jpg 158,60,211,413,0 204,82,286,411,0 304,81,396,417,0 433,63,537,412,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun31g.jpg 412,154,520,426,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun32.jpg 97,61,146,418,0 139,59,202,422,0 468,57,536,422,0 528,57,584,425,0 224,56,294,423,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun32g.jpg 184,185,287,409,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun33.jpg 225,55,288,414,0 278,58,379,414,0 458,57,547,406,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun33g.jpg 456,82,522,409,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun34.jpg 209,146,284,395,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun35.jpg 99,54,230,405,0 353,55,447,409,0 435,58,506,409,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun36g.jpg 288,157,382,417,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun37.jpg 447,169,534,399,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun38.jpg 179,173,272,420,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun39.jpg 124,225,207,391,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun4.jpg 237,56,368,425,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun40.jpg 515,58,583,404,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun40g.jpg 348,267,430,416,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun41.jpg 251,57,332,424,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun41g.jpg 543,195,584,418,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun42.jpg 371,134,487,401,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun42g.jpg 268,192,388,423,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun43g.jpg 75,172,169,401,0 190,204,317,403,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun44g.jpg 414,157,522,420,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun45.jpg 134,123,283,413,0 486,156,575,415,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun46.jpg 227,166,335,427,0 368,169,467,424,0 469,222,549,426,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun47.jpg 127,171,237,407,0 232,173,296,413,0 294,173,403,415,0 419,174,531,413,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun48.jpg 136,132,252,430,0 351,136,477,426,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun49g.jpg 131,162,227,415,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun50.jpg 373,55,451,398,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun50g.jpg 511,168,582,405,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun51.jpg 126,55,205,408,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun51g.jpg 227,179,356,426,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun52.jpg 343,198,423,399,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun52g.jpg 412,199,517,414,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun53.jpg 91,178,163,392,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun53g.jpg 166,185,247,414,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun55.jpg 324,55,419,399,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun55g.jpg 284,126,430,412,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun56.jpg 479,57,580,425,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun56g.jpg 388,149,502,411,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun57.jpg 250,57,405,416,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun57g.jpg 137,137,218,409,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun58g.jpg 417,141,548,412,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun59.jpg 174,139,266,411,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun6.jpg 202,106,345,421,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun61g.jpg 310,279,426,408,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun62.jpg 387,54,535,413,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun62g.jpg 403,263,482,407,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun63.jpg 133,55,303,415,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun64.jpg 390,55,540,420,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun64g.jpg 351,169,459,413,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun65.jpg 150,55,269,421,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun65g.jpg 100,133,218,407,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun66.jpg 508,293,583,412,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun66g.jpg 325,151,488,427,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun67.jpg 245,205,325,428,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun67g.jpg 109,185,235,402,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun68.jpg 483,61,575,422,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun68g.jpg 407,156,580,412,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun69.jpg 256,55,391,411,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun69g.jpg 147,184,262,413,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun7.jpg 370,59,456,420,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun70.jpg 369,55,527,406,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun71.jpg 117,58,198,419,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun71g.jpg 365,169,466,413,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun72.jpg 458,64,538,413,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun72g.jpg 392,63,504,416,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun73.jpg 204,55,306,410,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun73g.jpg 161,52,233,400,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun75.jpg 305,195,373,412,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun75g.jpg 192,143,330,424,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun77.jpg 290,54,400,402,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun77g.jpg 235,53,390,414,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun79.jpg 243,72,389,422,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun7g.jpg 386,206,515,428,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun8.jpg 128,55,255,414,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun80.jpg 491,151,530,413,0 518,158,578,415,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun81.jpg 267,137,368,411,0 365,135,520,406,0 518,136,584,411,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun81g.jpg 339,105,439,407,0 455,129,540,413,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun82.jpg 339,166,442,417,0 521,166,583,416,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun82g.jpg 87,94,170,426,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun83.jpg 86,141,204,414,0 273,142,365,402,0 494,177,573,402,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun83g.jpg 464,64,566,420,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun84.jpg 245,177,333,409,0 338,175,438,414,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun84g.jpg 215,57,345,425,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun88.jpg 304,55,405,406,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun88g.jpg 108,151,206,421,0 215,104,362,426,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun89.jpg 551,293,583,417,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun8g.jpg 168,201,280,424,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun9.jpg 435,72,577,417,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun90.jpg 359,133,539,403,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun91.jpg 332,240,405,413,0 481,238,538,415,0 542,238,588,417,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun91g.jpg 528,255,584,414,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun92.jpg 280,242,376,411,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun93.jpg 492,232,544,413,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun95g.jpg 274,233,341,412,0 361,233,432,413,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun96g.jpg 114,189,204,415,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun97.jpg 461,256,553,412,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun98.jpg 214,252,289,419,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun98g.jpg 261,160,375,421,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun99.jpg 438,235,564,424,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/gun99g.jpg 497,210,568,410,0
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn100.jpg 242,144,293,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn104.jpg 130,231,158,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn108.jpg 140,171,165,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn132.jpg 187,298,213,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn134.jpg 388,58,433,425,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn135.jpg 392,232,417,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn139.jpg 449,198,472,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn143.jpg 270,64,300,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn145.jpg 207,62,238,419,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn154.jpg 355,203,380,418,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn155.jpg 110,200,132,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn156.jpg 480,189,508,417,1 377,225,407,418,1 348,231,376,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn158.jpg 357,61,385,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn164.jpg 476,69,495,424,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn165.jpg 227,68,247,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn170.jpg 361,115,389,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn172.jpg 122,62,155,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn178.jpg 198,307,219,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn187.jpg 420,259,450,424,1 281,309,308,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn188.jpg 170,294,197,425,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn211.jpg 385,301,405,423,1 207,316,227,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn223.jpg 338,316,363,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn226.jpg 339,71,362,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn227.jpg 90,243,117,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn23.jpg 476,170,503,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn24.jpg 229,167,255,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn250.jpg 328,296,347,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn251.jpg 207,279,234,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn268.jpg 166,319,189,425,1 87,313,109,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn277.jpg 553,61,578,419,1 401,141,425,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn29.jpg 390,150,410,417,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn302.jpg 307,267,337,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn31.jpg 298,256,324,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn317.jpg 134,61,162,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn32.jpg 369,60,400,419,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn33.jpg 121,92,153,421,1 386,237,409,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn344.jpg 462,296,487,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn353.jpg 203,105,235,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn360.jpg 348,158,373,421,1 476,270,497,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn371.jpg 178,191,217,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn375.jpg 353,165,383,425,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn39.jpg 534,195,577,423,1 327,266,355,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn392.jpg 400,344,422,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn398.jpg 447,60,479,421,1 416,286,439,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn402.jpg 172,276,204,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn41.jpg 262,159,301,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn413.jpg 533,231,555,419,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn42.jpg 400,211,426,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn424.jpg 280,251,302,423,1 545,235,566,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn426.jpg 188,260,215,422,1 283,252,314,423,1 531,66,562,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn451.jpg 349,227,383,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn454.jpg 457,222,480,423,1 248,157,269,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn455.jpg 207,226,239,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn456.jpg 357,64,387,418,1 443,71,476,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn467.jpg 412,207,439,420,1 260,64,282,421,1 107,281,135,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn468.jpg 165,209,192,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn469.jpg 425,60,448,422,1 473,61,500,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn472.jpg 263,153,289,420,1 102,272,125,419,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn478.jpg 346,168,368,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn479.jpg 360,180,393,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn486.jpg 237,315,262,423,1 198,339,223,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn488.jpg 270,62,319,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn496.jpg 205,299,230,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn501.jpg 319,248,350,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn502.jpg 248,64,271,418,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn512.jpg 413,203,439,420,1 551,62,578,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn514.jpg 449,86,471,419,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn516.jpg 396,248,423,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn518.jpg 425,261,449,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn528.jpg 138,273,161,420,1 418,272,449,421,1 193,302,229,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn529.jpg 173,245,196,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn534.jpg 152,61,184,419,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn54.jpg 454,207,484,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn542.jpg 274,59,301,417,1 375,305,397,425,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn545.jpg 175,63,206,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn554.jpg 433,212,457,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn556.jpg 436,190,467,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn558.jpg 394,75,424,422,1 225,59,266,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn559.jpg 150,69,173,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn563.jpg 211,64,250,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn568.jpg 394,191,416,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn569.jpg 145,182,172,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn572.jpg 529,213,564,418,1 394,209,428,413,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn573.jpg 363,69,401,420,1 272,193,314,419,1 138,186,178,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn576.jpg 462,182,490,424,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn581.jpg 114,240,145,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn582.jpg 365,61,395,415,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn583.jpg 117,63,146,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn584.jpg 418,249,448,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn586.jpg 496,250,524,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn587.jpg 248,244,272,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn588.jpg 461,131,485,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn592.jpg 422,278,453,424,1 547,290,577,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn607.jpg 322,144,351,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn617.jpg 155,83,189,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn626.jpg 284,128,311,422,1 97,225,135,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn629.jpg 481,164,511,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn65.jpg 526,210,549,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn656.jpg 312,199,339,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn664.jpg 248,221,278,422,1 204,214,229,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn666.jpg 265,205,292,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn667.jpg 374,144,410,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn669.jpg 180,59,211,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn682.jpg 424,226,444,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn687.jpg 236,306,274,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn688.jpg 337,61,359,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn694.jpg 339,220,371,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn696.jpg 316,127,347,424,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn697.jpg 506,83,548,423,1 134,293,160,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn705.jpg 412,65,437,419,1 495,71,519,424,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn706.jpg 160,62,188,423,1 245,126,268,424,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn721.jpg 557,150,577,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn741.jpg 459,251,486,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn748.jpg 519,193,546,420,1 481,196,507,418,1 129,242,158,420,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn751.jpg 198,179,245,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn77.jpg 549,238,578,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn78.jpg 298,135,341,421,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn82.jpg 189,200,215,421,1 358,242,383,424,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn87.jpg 364,239,394,422,1 522,231,549,420,1 113,296,138,420,1 243,304,275,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn96.jpg 135,266,164,422,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/hn99.jpg 493,148,542,423,1
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun1.jpg 474,62,572,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun10.jpg 184,64,304,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun102.jpg 304,63,435,417,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun103.jpg 404,62,544,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun104.jpg 161,61,289,419,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun105.jpg 335,62,461,424,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun106.jpg 91,59,219,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun107.jpg 477,62,570,419,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun108.jpg 231,60,389,418,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun11.jpg 330,58,460,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun110.jpg 166,59,312,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun111.jpg 357,59,519,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun112.jpg 114,60,233,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun118.jpg 170,62,280,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun119.jpg 458,60,569,422,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun12.jpg 91,58,185,419,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun120.jpg 205,61,333,419,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun121.jpg 410,155,515,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun125.jpg 330,60,444,422,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun127.jpg 365,59,494,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun128.jpg 118,65,230,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun129.jpg 423,60,536,422,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun13.jpg 428,62,547,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun131.jpg 542,60,582,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun132.jpg 291,60,401,422,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun133.jpg 449,67,570,426,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun134.jpg 209,62,325,419,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun135.jpg 527,67,577,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun136.jpg 285,60,419,418,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun137.jpg 355,60,483,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun138.jpg 106,59,220,424,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun14.jpg 174,59,283,422,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun140.jpg 317,63,438,417,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun145.jpg 343,59,481,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun146.jpg 96,59,221,422,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun147.jpg 439,64,573,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun148.jpg 204,64,308,418,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun149.jpg 334,61,458,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun154.jpg 270,71,411,418,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun16.jpg 122,60,266,417,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun17.jpg 434,59,550,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun18.jpg 179,62,318,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun19.jpg 417,61,556,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun2.jpg 229,64,366,418,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun20.jpg 158,59,291,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun21.jpg 404,59,524,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun22.jpg 156,60,260,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun23.jpg 461,64,573,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun24.jpg 205,61,346,418,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun25.jpg 532,59,578,419,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun26.jpg 280,60,412,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun27.jpg 405,59,558,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun28.jpg 152,60,294,419,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun31.jpg 480,64,567,422,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun32.jpg 232,59,316,424,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun33.jpg 475,62,572,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun34.jpg 230,59,363,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun36.jpg 314,59,454,422,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun37.jpg 459,60,575,422,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun38.jpg 216,59,370,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun39.jpg 326,60,439,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun4.jpg 254,65,403,418,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun40.jpg 90,61,254,418,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun42.jpg 326,62,432,419,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun43.jpg 381,59,489,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun44.jpg 116,62,237,419,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun45.jpg 454,60,575,422,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun46.jpg 211,55,345,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun50.jpg 316,65,388,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun51.jpg 426,69,554,419,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun52.jpg 170,61,296,424,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun54.jpg 303,64,381,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun55.jpg 491,59,576,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun56.jpg 261,60,364,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun58.jpg 310,59,439,418,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun59.jpg 508,60,578,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun6.jpg 159,59,279,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun60.jpg 257,61,384,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun61.jpg 359,57,453,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun62.jpg 106,56,243,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun63.jpg 415,64,544,424,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun64.jpg 164,62,290,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun66.jpg 312,61,393,424,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun67.jpg 407,59,540,418,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun68.jpg 153,61,275,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun69.jpg 484,62,580,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun70.jpg 254,63,389,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun71.jpg 515,61,575,419,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun72.jpg 272,61,395,417,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun73.jpg 452,59,580,424,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun74.jpg 213,60,348,418,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun75.jpg 365,61,489,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun77.jpg 492,64,575,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun78.jpg 242,63,366,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun79.jpg 467,62,572,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun8.jpg 294,61,421,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun80.jpg 215,75,358,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun81.jpg 531,59,578,425,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun82.jpg 286,59,424,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun83.jpg 513,61,575,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun84.jpg 276,61,416,422,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun85.jpg 449,65,574,417,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun9.jpg 432,60,557,422,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun90.jpg 126,106,321,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun91.jpg 480,60,576,418,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun92.jpg 229,100,394,421,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun94.jpg 265,81,467,413,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun95.jpg 509,60,577,422,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun96.jpg 259,59,383,419,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun97.jpg 372,61,495,420,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun98.jpg 123,62,246,423,2
+D:\yolov4-keras-master/VOCdevkit/VOC2007/JPEGImages/shotgun99.jpg 435,63,560,421,2
