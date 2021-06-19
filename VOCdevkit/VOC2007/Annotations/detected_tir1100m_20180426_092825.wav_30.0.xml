@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<floder>JPEGImages</floder>
+		<path>None</path>
+		<source>
+			<database>Unknow</database>
+		</source>
+		<segmented>0</segmented>
+		<filename>detected_tir1100m_20180426_092825.wav_30.0.jpg</filename>
+		<size>
+			<width>640</width>
+			<height>480</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>gunshot</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>438</xmin>
+				<ymin>203</ymin>
+				<xmax>553</xmax>
+				<ymax>417</ymax>
+			</bndbox>
+		</object>
+	</annotation>
