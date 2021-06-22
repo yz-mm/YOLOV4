@@ -29,3 +29,7 @@ The train.py file is used to train the model. Before running the file, make sure
 
 Check the below link:
 https://r15hil.github.io/ICL-Project15-ELP/howtorun.html
+
+## More Explanations
+
+The idea of using YOLOV4 is after training and testing faster r-cnn method. Faster r-cnn model achieves 95%-98% precision on gunshot detection which is extraordinarily improved compared to the current detector. The only potential problem is that the operation time of faster r-cnn algorithm 
