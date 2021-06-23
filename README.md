@@ -23,13 +23,17 @@ Then run voc_annotations file to save the information of training data into a .t
 
 The train.py file is used to train the model. Before running the file, make sure the following file paths are correct.
 
-<img src="https://github.com/yz-mm/YOLOV4/blob/main/image/ima2.jpg" width=75% height=75%>
+<img src="https://github.com/yz-mm/YOLOV4/blob/main/image/ima2.jpg" width=65% height=65%>
 
 ### Test
 
-Check the below link:
+For more detailed testing tutorial, please check the below link :
 https://r15hil.github.io/ICL-Project15-ELP/howtorun.html
 
 ## More Explanations
 
-The idea of using YOLOV4 is after training and testing faster r-cnn method. Faster r-cnn model achieves 95%-98% precision on gunshot detection which is extraordinarily improved compared to the current detector. The only potential problem is that the operation time of faster r-cnn algorithm 
+The idea of using YOLOV4 is after training and testing faster r-cnn method. Faster r-cnn model achieves 95%-98% precision on gunshot detection which is extraordinarily improved compared to the current detector. The training data for YOLOV4 model is totally same with that used in the faster r-cnn model. Therefore, in this document, the detection results of YOLOV4 will not be the main points to talk about. Briefly speaking, the YOLOV4 can achieve 85% precision but detect the events with lower probability than faster r-cnn.
+
+<img src="https://github.com/yz-mm/YOLOV4/blob/main/image/img.jpgdetected_tir1100m_20180426_092825.wav_1560.0.png" width=50% height=50%><img src="https://github.com/yz-mm/YOLOV4/blob/main/image/imgtree3_20180517_000000.wav7416000.png" width=50% height=50%>
+
+The reason why we still build YOLOV4 model is that it can make our clients to have diversified options and choose the most appropriate proposal in the real application condition.  Even though faster r-cnn model has the best detection performance, the disadvantage is obvious which is its operation time. In the case of similar GPU, the faster r-cnn needs 100 minutes to process 24 hours audio file while YOLOV4 only takes 44 minutes to do the same work.
